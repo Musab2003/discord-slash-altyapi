@@ -56,7 +56,7 @@ console.log(`[EVENT] ${name} eventi yüklendi.`)
 
 /* Eventleri Yüklüyoruz */
 
-client.login(TOKEN).then(app => {
+client.login(16eefc5a56a86247f8abd95002ee4897173eaba8041f079d753eed9cc09bf2e3).then(app =>
   console.log(`[BOT] Token girişi başarılı.`)
 }).catch(app => {
   console.log(`[BOT] Token girşi başarısız.`)
